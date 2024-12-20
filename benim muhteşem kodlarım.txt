@@ -6,3 +6,8 @@ aslkşjdşasşjkldjlkşasjlkşdasljkşdşjlk
 
 yeni güncellemeler
 daha daha güzel kodlar
+
+character kodları eklendi
+
+move horizontal
+move vertical 
